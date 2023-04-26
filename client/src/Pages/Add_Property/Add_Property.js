@@ -40,8 +40,13 @@ function Add_Property() {
 
   return (
     <div className='Property_Registeration'>
+<<<<<<< HEAD
+        <div className='blur-background'></div>
+            <div className='Property-Registeration-div'>
+=======
         {/* <div className='blur-background'></div> */}
             <form  id="form1" className='Property-Registeration-div' onSubmit={handleForm}>
+>>>>>>> f7feb88090d5d7871dad0dacc6cd936e8f934da9
             <div className='register_details-Property'>
                 <div className='register-content-Property'> Property registeration</div>
                 <div className='Div-line-Property'>
